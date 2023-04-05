@@ -855,7 +855,7 @@ color: #3d535f;
         flex-direction:column;
     }
     .home-content{
-        height:55vh;
+        height:77vh;
     }
     .home-content h3{
         font-size: 2.6rem;
@@ -940,7 +940,7 @@ color: #3d535f;
         font-size:50%;
     }
     .home-content{
-        height: 58vh;
+        height: 70vh;
     }
     .home-img img{
         width:50vw;
@@ -977,7 +977,7 @@ color: #3d535f;
     width:70vw;
      }
     .home-content{
-    height: 55vh;
+    height: 60vh;
     }
     .container{
         margin-left:var(--mb-1-5);
