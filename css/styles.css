@@ -940,7 +940,7 @@ color: #3d535f;
         font-size:50%;
     }
     .home-content{
-        height: 70vh;
+        height: 80vh;
     }
     .home-img img{
         width:50vw;
@@ -958,7 +958,7 @@ color: #3d535f;
 }
 @media (max-width:365px){
     .home-content{
-        height: 65vh;
+        height: 70vh;
         }
     .home-content h3{
         font-size: 2.4rem;
